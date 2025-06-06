@@ -52,9 +52,7 @@ This project is a simple RFID-based access control system built using an **Ardui
 3. If the UID matches the authorized UID (`5dfcbb2`), it shows **"Access Provided"** and turns on the green LED.
 4. If the UID doesn't match, it shows **"Access Denied"** and turns on the red LED.
 
-## 🧪 Output Example
 
-**Serial Monitor:**
 
 ## 📦 Libraries Used
 
