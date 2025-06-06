@@ -1,5 +1,3 @@
-# RFID-using-arduino
-Arduino-based RFID access control system with LCD display and UID authentication.
 # RFID Access Control System using Arduino
 
 This project is a simple RFID-based access control system built using an **Arduino Uno**, **MFRC522 RFID reader**, and a **16x2 I2C LCD display**. The system reads an RFID tag, displays its UID, and checks whether access should be granted or denied based on a predefined UID.
